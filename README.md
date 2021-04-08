@@ -5,5 +5,5 @@ It contains Three Buttons "-" "Reset" & "+" . The starting point of the counter 
 At any point between if we press "Reset" button the counter value comes back to initial point i.e. 0.
 The key feature of is this counter app is that when the count value is even the background Color is different and
 when the value is odd the background color is different.
-#Tech Used
+# Tech Used
 The app is coded in HTML5 , CSS & Javascript languages
