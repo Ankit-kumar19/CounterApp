@@ -9,3 +9,4 @@ The key feature of is this counter app is that when the count value is even the 
 when the value is odd the background color is different.
 # Tech Used
 The app is coded in HTML5 , CSS & Javascript .
+#Ankit
